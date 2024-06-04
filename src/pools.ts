@@ -111,6 +111,13 @@ decimals:9,
 icon:"ipfs://QmQULX9E5xbuu72Vmph9fDnJvUA85KPW7xheFJvXS2ywpc/Ykd_token-removebg-preview.png"
 
     },
+
+    "BgFhv7WXJameaDeuwW5aSSGYyi6MpxE8yfyC2jYEssyy":{
+name: "Yonder Kid Dreams",
+symbol: "YKD",
+decimals: 9,
+icon:"ipfs://QmQULX9E5xbuu72Vmph9fDnJvUA85KPW7xheFJvXS2ywpc/Ykd_token-removebg-preview.png"
+    },
 };
 
 export default poolsConfig;
