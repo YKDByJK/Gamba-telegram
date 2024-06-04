@@ -92,5 +92,11 @@ const poolsConfig = {
         decimals: 9,
         icon: "https://i.ibb.co/SvfbhLy/imageedit-37-6175591894.png",
     },
+    "CFFcDZQqz7i6HMDzNeqhj8LZE3mARqXNoRGSZsaTSbYG": {
+        name: "Yonder Kid Dreams",
+        symbol: "YKD",
+        decimals: 9,
+        icon: "ipfs://QmQULX9E5xbuu72Vmph9fDnJvUA85KPW7xheFJvXS2ywpc/Ykd_token-removebg-preview.png"
+    },
 };
 exports.default = poolsConfig;
