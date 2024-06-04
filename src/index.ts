@@ -67,7 +67,7 @@ gambaProvider.gambaProgram.addEventListener(
         `*Multiplier:* \`${formatMultiplier(data.multiplierBps)}\``,
         `*Time:* \`${new Date().toLocaleString()}\``,
         `*Metadata:* \`${metadataInfo}\``,
-        "",
+        "Want to play? [ykdgames.com](https://ykdgames.com)",
         "",
         "Built by [bankkroll](https://twitter.com/bankkroll_eth)",
       ].join("\n");
