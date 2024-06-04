@@ -92,7 +92,7 @@ const poolsConfig = {
         decimals: 9,
         icon: "https://i.ibb.co/SvfbhLy/imageedit-37-6175591894.png",
     },
-    "BgFhv7WXJameaDeuwW5aSSGYyi6MpxE8yfyC2jYEssyy": {
+    "CFFcDZQqz7i6HMDzNeqhj8LZE3mARqXNoRGSZsaTSbYG": {
         name: "Yonder Kid Dreams",
         symbol: "YKD",
         decimals: 9,
